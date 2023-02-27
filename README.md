@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <p>Welcome to my page! </br> I'm Taras, Manual Qa Tester originally from <img src="https://cdn-icons-png.flaticon.com/512/330/330540.png" width="15"/> <b>Dnipro, Ukraine</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/555/555526.png" width="15"/> <b>New York, USA</b>. </p>
 Responsibility and attention to details are qualities that allow me to find bugs and describe errors for eliminating defects.
-The goal is to get into a positive team of like-minded people to do cool projects and work for the company's success.
+The goal is to get into a positive team of like-minded people to do cool projects and work for the company's success 🏆.
 
 <h2>Projects I have worked on</h2>
 
