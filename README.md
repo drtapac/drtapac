@@ -21,6 +21,9 @@ Here are some ideas to get you started:
 
 
 <p>Welcome to my page! </br> I'm Taras, Manual Qa Tester from <img src="https://cdn-icons-png.flaticon.com/512/330/330540.png" width="15"/> <b>Dnipro, Ukraine</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/555/555526.png" width="15"/> <b>New York, USA</b>. </p>
+Responsibility and attention to details are qualities that allow me to find bugs and describe errors for eliminating defects.
+The goal is to get into a positive team of like-minded people to do cool projects and work for the company's success.
+
 <h2>Projects I have worked on</h2>
 
 | Project        | Description                                                                                                                                                                                                                                                       | Testing   |
@@ -31,13 +34,15 @@ Here are some ideas to get you started:
 |                |                                                                                                                                                                                                                                                                   |      |
 
 <h2>TECH SKILLS</h2>
+<b>Jira, Github, Postman, JSON, DevTools, HTML, CSS, JavaScript, Git, API, MySQL </b>
 <ul>
-  <li>Scrum methodology </li>
-  <li>Development Tools</li>
-  <li>HTML </li>
-  <li>CSS</li>
-   <li>JIRA</li>
-   <li>Postman</li>
+  <li>Knowledge of theory and practice of testing (SDLC, STLC and life cycle of bugs;  </li>
+  <li>types of software testing; requirements analysis; </li>
+  <li>drawing up documentation - test plans,checklists, test cases, bug report; </li>
+  <li>Ability to work with Jira bug tracking system;</li>
+   <li>Understanding of software development methodologies;</li>
+   <li>Testing API using POSTMAN;</li>
+     <li>Knowledge of MySQL.</li>
 </ul>
 
 <h2>SOFT SKILLS</h2>
