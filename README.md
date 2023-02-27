@@ -21,4 +21,11 @@ Here are some ideas to get you started:
 
 
 <p>Welcome to my page! </br> I'm Taras, Manual Qa Tester from <img src="https://cdn-icons-png.flaticon.com/512/330/330540.png" width="15"/> <b>Dnipro, Ukraine</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/555/555526.png" width="15"/> <b>New York, USA</b>. </p>
-<h3>Things I code with</h3>
+<h3>Projects I have worked on</h3>
+
+| Project        | Description                                                                                                                                                                                                                                                       | TC   |
+|----------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------|
+| Energy-Telecom | Energy-Telecom is a web-based application (online form) created for collecting data about contact information and telecommunication/energy services needs info of a person (household). That information will be given to an ACN services broker as a sales lead. | Link |
+|                |                                                                                                                                                                                                                                                                   |      |
+|                |                                                                                                                                                                                                                                                                   |      |
+|                |                                                                                                                                                                                                                                                                   |      |
