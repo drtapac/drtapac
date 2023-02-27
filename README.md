@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://the-unl.com" target="_blank">
-  <img src="https://github.com/AlexeyShpavda/alexeyshpavda/blob/master/assets/the_unlimited.png" alt="The Unlimited" width="180"/>
+  <img src="https://github.com/drtapac/drtapac/blob/main/assets/qataras.jpg" alt="The QA Taras"/>
 </a>
