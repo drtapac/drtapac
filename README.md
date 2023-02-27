@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **drtapac/drtapac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://the-unl.com" target="_blank">
+<a href="https://www.linkedin.com/in/drtapac/" target="_blank">
   <img src="https://github.com/drtapac/drtapac/blob/main/assets/qataras.jpg" alt="The QA Taras"/>
 </a>
