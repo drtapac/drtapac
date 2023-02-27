@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Taras, Manual Qa Tester from <img src="https://cdn-icons-png.flaticon.com/512/330/330540.png" width="15"/> <b>Dnipro, Ukraine</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/555/555526.png" width="15"/> <b>New York, USA</b>. </p>
+<p>Welcome to my page! </br> I'm Taras, Manual Qa Tester originally from <img src="https://cdn-icons-png.flaticon.com/512/330/330540.png" width="15"/> <b>Dnipro, Ukraine</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/555/555526.png" width="15"/> <b>New York, USA</b>. </p>
 Responsibility and attention to details are qualities that allow me to find bugs and describe errors for eliminating defects.
 The goal is to get into a positive team of like-minded people to do cool projects and work for the company's success.
 
