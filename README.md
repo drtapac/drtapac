@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 |                |                                                                                                                                                                                                                                                                   |      |
 |                |                                                                                                                                                                                                                                                                   |      |
 
-<h2>TECH SKILLS</h3>
+<h2>TECH SKILLS</h2>
 <ul>
   <li>Scrum methodology </li>
   <li>Development Tools</li>
@@ -39,3 +39,14 @@ Here are some ideas to get you started:
    <li>JIRA</li>
    <li>Postman</li>
 </ul>
+
+<h2>SOFT SKILLS</h2>
+<ul>
+ <li>🔍 Attention to detail </li>
+ <li>‼️ Critical thinking </li>
+ <li>🧐 Strong analytical thinking </li>
+ <li>🎓 Willingness to learn </li>
+ <li>👷‍♂️ Cooperation </li>
+ 
+</ul>
+
