@@ -35,7 +35,7 @@ The goal is to get into a positive team of like-minded people to do cool project
 
 <h2>TECH SKILLS</h2>
 <b>Jira, Github, Postman, JSON, DevTools, HTML, CSS, JavaScript, Git, API, MySQL </b>
-
+<br>
 <ul>
   <li>Knowledge of theory and practice of testing (SDLC, STLC and life cycle of bugs;  </li>
   <li>types of software testing; requirements analysis; </li>
