@@ -37,7 +37,7 @@ The goal is to get into a positive team of like-minded people to do cool project
 <b>Jira, Github, Postman, JSON, DevTools, HTML, CSS, JavaScript, Git, API, MySQL </b>
 <p>
 <ul>
-  <li>Knowledge of theory and practice of testing (SDLC, STLC and life cycle of bugs;  </li>
+  <li>Knowledge of theory and practice of testing (SDLC, STLC and life cycle of bugs);  </li>
   <li>types of software testing; requirements analysis; </li>
   <li>drawing up documentation - test plans,checklists, test cases, bug report; </li>
   <li>Ability to work with Jira bug tracking system;</li>
