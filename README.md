@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 
 <p>Welcome to my page! </br> I'm Taras, Manual Qa Tester from <img src="https://cdn-icons-png.flaticon.com/512/330/330540.png" width="15"/> <b>Dnipro, Ukraine</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/555/555526.png" width="15"/> <b>New York, USA</b>. </p>
-<h3>Projects I have worked on</h3>
+<h2>Projects I have worked on</h2>
 
 | Project        | Description                                                                                                                                                                                                                                                       | Testing   |
 |----------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------|
@@ -29,3 +29,5 @@ Here are some ideas to get you started:
 | Brief               | Brief is a productivity app that helps you focus your day to achieve more professionally and personally. Its clean, minimalist dashboard combines team chat, video, hubs, to do lists, file sharing and storage – helping you action priorities that drive the most impact.                                                                                                                                                                                                                                                                  | <a href="https://docs.google.com/spreadsheets/d/1psOG3WgUI_hEIVLraTxlds5xE6BuTF9X2wdjFlwA8qo/edit?usp=sharing" target="_blank"><b>Link</b></a>      |
 |                |                                                                                                                                                                                                                                                                   |      |
 |                |                                                                                                                                                                                                                                                                   |      |
+
+<h2>TECH SKILLS</h3>
