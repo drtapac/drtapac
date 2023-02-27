@@ -31,3 +31,11 @@ Here are some ideas to get you started:
 |                |                                                                                                                                                                                                                                                                   |      |
 
 <h2>TECH SKILLS</h3>
+<ul>
+  <li>Scrum methodology </li>
+  <li>Development Tools</li>
+  <li>HTML </li>
+  <li>CSS</li>
+   <li>JIRA</li>
+   <li>Postman</li>
+</ul>
